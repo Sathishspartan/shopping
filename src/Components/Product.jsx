@@ -14,4 +14,4 @@ const ProductCard = ({ product, addToCart, inCart }) => {
   );
 };
 
-export default ProductCard;
+export default Product;
