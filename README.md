@@ -1,8 +1,16 @@
-# React + Vite
+Overview
+This project is a shopping cart website built with HTML, CSS, React, and Redux. It allows users to browse a list of products, add them to their cart, and manage their cart. This README provides an overview of the project's structure, features, and how to get it up and running.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Product Listing: Display a list of products with details like title, price, and an option to add them to the cart.
 
-Currently, two official plugins are available:
+Shopping Cart: Maintain a shopping cart where users can add and remove products.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Total Price Calculation: Calculate and display the total price of products in the cart.
+
+Responsive Design: The website is responsive, ensuring a good user experience on different devices.
+
+Navigation: Easily switch between the product listing and the shopping cart using the navigation menu.
+
+GitHub Links: Links to the project creator's GitHub and LinkedIn profiles.
+
